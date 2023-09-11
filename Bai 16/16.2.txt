@@ -1,0 +1,126 @@
+** start of undefined **
+
+<h1 id="title">freeCodeCamp Survey Form</h1>
+<p id="description">Thank you for taking the time to help us improve the platform</p>
+<form action="" id="survey-form">
+  <div class="input-element">
+    <label for="name" id="name-label">Name</label>
+    <input type="text" required  id="name" placeholder="Enter your name">
+  </div>
+  <div class="input-element">
+    <label for="email" id="email-label">Email</label>
+    <input type="email" required  id="email" placeholder="Enter your email">
+  </div>
+  <div class="input-element">
+    <label for="age" id="number-label">Age(optional)</label>
+    <input type="number" required min="5" max="100" id="number" placeholder="Enter your name">
+  </div>
+  <div class="input-element">
+    <div>
+      <label id="select-label">
+       Which option best describes your current role?
+       </label>
+    </div>
+    <div>
+      <select id="dropdown">
+       <option>Select an current role</option>
+      <option>Student</option>
+      <option>Full Time job</option>
+      <option>Full Time leaner</option>
+      <option>Prefer not to say</option>
+      <option>Other</option>
+      </select>
+    </div>
+  </div>
+  <div>
+    <label>Would you recommend freeCodeCamp to a friend?</label>
+    <div>
+      <label><input type="radio" name="check" value="ideas"
+  </div>Definitely</label>
+    </div>
+    <div>
+      <label><input type="radio" name="check"value="ideas"
+  </div>Maybe</label>
+    </div>
+    <div>
+      <label><input type="radio" name="check"value="ideas"
+  </div>Not Sure</label>
+    </div>
+    <div class="input-element">
+      <div>
+        <label id="select-label">
+        What is your favorite feature of freeCodeCamp?
+    </label>
+      </div>
+      <select id="dropdown">
+      <div>
+      <option>Select an option</option>
+      <option>Challenger</option>
+      <option>Projects</option>
+      <option>Community</option>
+      <option>Open source</option>
+      </div>
+  </select>
+    </div>
+    <div>
+      <label>Would you recommend freeCodeCamp to a friend?</label>
+      <div>
+        <label><input type="checkbox" name="project" value="select-project"
+  </div>Front-end Projects</label>
+      </div>
+      <div>
+        <label><input type="checkbox" name="project" value="select-project"
+  </div>Back-end Projects</label>
+      </div>
+      <div>
+        <label><input type="checkbox" name="project" value="select-project"
+  </div>Data Visualization</label>
+        <div>
+          <label><input type="checkbox" name="project" value="select-project"
+  </div>Challenges</label>
+        </div>
+        <div>
+          <label><input type="checkbox" name="project" value="select-project"
+  </div>Open Source Community</label>
+        </div>
+        <div>
+          <label><input type="checkbox" name="project" value="select-project"
+  </div>Gitter help rooms</label>
+          <div>
+            <label><input type="checkbox" name="project" value="select-project"
+  </div>Videos</label>
+          </div>
+          <div>
+            <label><input type="checkbox" name="project" value="select-project"
+  </div>City Meetups</label>
+          </div>
+          <div>
+            <label><input type="checkbox" name="project" value="select-project"
+  </div>Wiki</label>
+            <div>
+              <label><input type="checkbox" name="project" value="select-project"
+  </div>Forum</label>
+            </div>
+            <div>
+              <label><input type="checkbox" name="project" value="select-project"
+  </div>Additional Courses</label>
+            </div>
+          </div>
+          <div>
+                            <label for="">Any comments or suggestions?</label>
+                        </div>
+                        <div>
+<textarea name="" id="" cols="30" rows="10"></textarea>
+                        </div>
+
+<button type="submit" id="submit">Submit</button>
+</form>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
